@@ -1,0 +1,36 @@
+{
+  "n_events": 8173,
+  "n_modelled": 3188,
+  "outlier_cap_h": 2448.138718898628,
+  "point_mae_h": 73.44718724485008,
+  "point_medae_h": 1.410292636454972,
+  "p50_mae_h": 87.5702866218619,
+  "p10_p90_coverage_raw": 0.5971786833855799,
+  "p10_p90_coverage": 0.7539184952978056,
+  "cause_models": [
+    "pot_holes",
+    "construction",
+    "others"
+  ],
+  "cause_eval": {
+    "pot_holes": {
+      "n_test": 39,
+      "p50_mae": 304.19104694534207,
+      "coverage": 0.5128205128205128
+    },
+    "construction": {
+      "n_test": 12,
+      "p50_mae": 139.43929674252118,
+      "coverage": 0.8333333333333334
+    },
+    "others": {
+      "n_test": 50,
+      "p50_mae": 93.490554532359,
+      "coverage": 0.94
+    }
+  },
+  "date_range": [
+    "2023-11-09",
+    "2024-04-08"
+  ]
+}

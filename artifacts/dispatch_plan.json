@@ -1,0 +1,946 @@
+{
+  "Airport New South Road": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 8,
+      "events_per_day": 0.05,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 1,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 1,
+      "median_clearance_h": 1.5,
+      "p90_clearance_h": 1.7
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 29,
+      "events_per_day": 0.19,
+      "dominant_cause": "construction",
+      "recommended_crews": 2,
+      "primary_equipment": "tm_crews",
+      "equipment_units": 2,
+      "median_clearance_h": 18.2,
+      "p90_clearance_h": 786.2
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 8,
+      "events_per_day": 0.05,
+      "dominant_cause": "tree_fall",
+      "recommended_crews": 1,
+      "primary_equipment": "clearance_crews",
+      "equipment_units": 1,
+      "median_clearance_h": 1.2,
+      "p90_clearance_h": 5.6
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 22,
+      "events_per_day": 0.15,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 1.6,
+      "p90_clearance_h": 2.4
+    }
+  ],
+  "Bannerghata Road": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 23,
+      "events_per_day": 0.15,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.4,
+      "p90_clearance_h": 2.1
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 89,
+      "events_per_day": 0.59,
+      "dominant_cause": "pot_holes",
+      "recommended_crews": 3,
+      "primary_equipment": "patching_crews",
+      "equipment_units": 3,
+      "median_clearance_h": 209.9,
+      "p90_clearance_h": 974.9
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 53,
+      "events_per_day": 0.35,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 2.8
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 44,
+      "events_per_day": 0.29,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.5,
+      "p90_clearance_h": 2.6
+    }
+  ],
+  "Bellary Road 1": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 75,
+      "events_per_day": 0.5,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 2.7
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 202,
+      "events_per_day": 1.35,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.6
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 121,
+      "events_per_day": 0.81,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.8
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 212,
+      "events_per_day": 1.41,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.8
+    }
+  ],
+  "Bellary Road 2": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 49,
+      "events_per_day": 0.33,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 1.0,
+      "p90_clearance_h": 2.2
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 131,
+      "events_per_day": 0.87,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.6
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 78,
+      "events_per_day": 0.52,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.8
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 121,
+      "events_per_day": 0.81,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.1
+    }
+  ],
+  "CBD 1": [
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 9,
+      "events_per_day": 0.06,
+      "dominant_cause": "pot_holes",
+      "recommended_crews": 1,
+      "primary_equipment": "patching_crews",
+      "equipment_units": 1,
+      "median_clearance_h": 295.6,
+      "p90_clearance_h": 809.1
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 4,
+      "events_per_day": 0.03,
+      "dominant_cause": "pot_holes",
+      "recommended_crews": 1,
+      "primary_equipment": "patching_crews",
+      "equipment_units": 1,
+      "median_clearance_h": 254.1,
+      "p90_clearance_h": 697.1
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 12,
+      "events_per_day": 0.08,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 1,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 1,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.3
+    }
+  ],
+  "CBD 2": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 7,
+      "events_per_day": 0.05,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 1,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 1,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 1.6
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 38,
+      "events_per_day": 0.25,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 2.4
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 17,
+      "events_per_day": 0.11,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.1
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 42,
+      "events_per_day": 0.28,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.1
+    }
+  ],
+  "Hennur Main Road": [
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 29,
+      "events_per_day": 0.19,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 1.0,
+      "p90_clearance_h": 2.3
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 26,
+      "events_per_day": 0.17,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.0
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 40,
+      "events_per_day": 0.27,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 1.2,
+      "p90_clearance_h": 2.3
+    }
+  ],
+  "Hosur Road": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 39,
+      "events_per_day": 0.26,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 1.8
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 100,
+      "events_per_day": 0.67,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 2.3
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 83,
+      "events_per_day": 0.55,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.4
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 76,
+      "events_per_day": 0.51,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.0
+    }
+  ],
+  "IRR(Thanisandra road)": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 4,
+      "events_per_day": 0.03,
+      "dominant_cause": "tree_fall",
+      "recommended_crews": 1,
+      "primary_equipment": "clearance_crews",
+      "equipment_units": 1,
+      "median_clearance_h": 17.6,
+      "p90_clearance_h": 70.1
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 37,
+      "events_per_day": 0.25,
+      "dominant_cause": "pot_holes",
+      "recommended_crews": 2,
+      "primary_equipment": "patching_crews",
+      "equipment_units": 2,
+      "median_clearance_h": 176.4,
+      "p90_clearance_h": 474.6
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 21,
+      "events_per_day": 0.14,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 1.5
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 33,
+      "events_per_day": 0.22,
+      "dominant_cause": "pot_holes",
+      "recommended_crews": 2,
+      "primary_equipment": "patching_crews",
+      "equipment_units": 2,
+      "median_clearance_h": 185.8,
+      "p90_clearance_h": 461.0
+    }
+  ],
+  "Magadi Road": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 11,
+      "events_per_day": 0.07,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 1,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 1,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.1
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 67,
+      "events_per_day": 0.45,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.5
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 84,
+      "events_per_day": 0.56,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.5
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 83,
+      "events_per_day": 0.55,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.3
+    }
+  ],
+  "Mysore Road": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 48,
+      "events_per_day": 0.32,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.6,
+      "p90_clearance_h": 2.3
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 263,
+      "events_per_day": 1.75,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.2
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 166,
+      "events_per_day": 1.11,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.3
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 266,
+      "events_per_day": 1.77,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 2.1
+    }
+  ],
+  "ORR East 1": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 30,
+      "events_per_day": 0.2,
+      "dominant_cause": "pot_holes",
+      "recommended_crews": 2,
+      "primary_equipment": "patching_crews",
+      "equipment_units": 2,
+      "median_clearance_h": 38.6,
+      "p90_clearance_h": 231.2
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 103,
+      "events_per_day": 0.69,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.5
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 36,
+      "events_per_day": 0.24,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 1.0,
+      "p90_clearance_h": 3.0
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 75,
+      "events_per_day": 0.5,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 1.0,
+      "p90_clearance_h": 2.5
+    }
+  ],
+  "ORR East 2": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 5,
+      "events_per_day": 0.03,
+      "dominant_cause": "water_logging",
+      "recommended_crews": 1,
+      "primary_equipment": "water_pumps",
+      "equipment_units": 1,
+      "median_clearance_h": 206.7,
+      "p90_clearance_h": 215.7
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 140,
+      "events_per_day": 0.93,
+      "dominant_cause": "construction",
+      "recommended_crews": 3,
+      "primary_equipment": "tm_crews",
+      "equipment_units": 3,
+      "median_clearance_h": 132.0,
+      "p90_clearance_h": 2349.2
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 11,
+      "events_per_day": 0.07,
+      "dominant_cause": "water_logging",
+      "recommended_crews": 1,
+      "primary_equipment": "water_pumps",
+      "equipment_units": 1,
+      "median_clearance_h": 131.6,
+      "p90_clearance_h": 179.8
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 31,
+      "events_per_day": 0.21,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 1.8
+    }
+  ],
+  "ORR North 1": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 17,
+      "events_per_day": 0.11,
+      "dominant_cause": "construction",
+      "recommended_crews": 2,
+      "primary_equipment": "tm_crews",
+      "equipment_units": 2,
+      "median_clearance_h": 20.1,
+      "p90_clearance_h": 929.4
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 107,
+      "events_per_day": 0.71,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.2
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 59,
+      "events_per_day": 0.39,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.1
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 92,
+      "events_per_day": 0.61,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 1.9
+    }
+  ],
+  "ORR North 2": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 22,
+      "events_per_day": 0.15,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 1.9
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 73,
+      "events_per_day": 0.49,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 1.0,
+      "p90_clearance_h": 2.3
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 59,
+      "events_per_day": 0.39,
+      "dominant_cause": "congestion",
+      "recommended_crews": 3,
+      "primary_equipment": "general_units",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 1.3
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 81,
+      "events_per_day": 0.54,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.2
+    }
+  ],
+  "ORR West 1": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 9,
+      "events_per_day": 0.06,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 1,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 1,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 1.6
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 69,
+      "events_per_day": 0.46,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.4
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 43,
+      "events_per_day": 0.29,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.3
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 47,
+      "events_per_day": 0.31,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.1
+    }
+  ],
+  "Old Airport Road": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 13,
+      "events_per_day": 0.09,
+      "dominant_cause": "public_event",
+      "recommended_crews": 1,
+      "primary_equipment": "general_units",
+      "equipment_units": 1,
+      "median_clearance_h": 1.3,
+      "p90_clearance_h": 1.8
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 22,
+      "events_per_day": 0.15,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 1.0,
+      "p90_clearance_h": 2.4
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 20,
+      "events_per_day": 0.13,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.7
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 21,
+      "events_per_day": 0.14,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 1.0,
+      "p90_clearance_h": 2.5
+    }
+  ],
+  "Old Madras Road": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 24,
+      "events_per_day": 0.16,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.4,
+      "p90_clearance_h": 1.6
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 101,
+      "events_per_day": 0.67,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.6,
+      "p90_clearance_h": 2.0
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 50,
+      "events_per_day": 0.33,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 2.1
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 88,
+      "events_per_day": 0.59,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.6,
+      "p90_clearance_h": 1.6
+    }
+  ],
+  "Tumkur Road": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 46,
+      "events_per_day": 0.31,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.4,
+      "p90_clearance_h": 1.7
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 161,
+      "events_per_day": 1.07,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.5,
+      "p90_clearance_h": 1.9
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 77,
+      "events_per_day": 0.51,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.6,
+      "p90_clearance_h": 1.9
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 174,
+      "events_per_day": 1.16,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.5,
+      "p90_clearance_h": 1.7
+    }
+  ],
+  "Varthur Road": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 14,
+      "events_per_day": 0.09,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 1,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 1,
+      "median_clearance_h": 0.5,
+      "p90_clearance_h": 1.7
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 28,
+      "events_per_day": 0.19,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 1.0,
+      "p90_clearance_h": 2.5
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 18,
+      "events_per_day": 0.12,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.9,
+      "p90_clearance_h": 2.5
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 17,
+      "events_per_day": 0.11,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.8,
+      "p90_clearance_h": 2.7
+    }
+  ],
+  "West of Chord Road": [
+    {
+      "time_window": "Daytime (08-16)",
+      "hist_events": 18,
+      "events_per_day": 0.12,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 2,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 2,
+      "median_clearance_h": 0.6,
+      "p90_clearance_h": 1.8
+    },
+    {
+      "time_window": "Evening Peak (17-22)",
+      "hist_events": 60,
+      "events_per_day": 0.4,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.6,
+      "p90_clearance_h": 2.1
+    },
+    {
+      "time_window": "Morning Peak (05-07)",
+      "hist_events": 43,
+      "events_per_day": 0.29,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.7,
+      "p90_clearance_h": 1.9
+    },
+    {
+      "time_window": "Overnight (23-04)",
+      "hist_events": 53,
+      "events_per_day": 0.35,
+      "dominant_cause": "vehicle_breakdown",
+      "recommended_crews": 3,
+      "primary_equipment": "tow_trucks",
+      "equipment_units": 3,
+      "median_clearance_h": 0.6,
+      "p90_clearance_h": 1.8
+    }
+  ]
+}

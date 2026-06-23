@@ -1,0 +1,278 @@
+{
+  "water_logging": [
+    {
+      "junction": "YelhankaCircle",
+      "corridor": "Bellary Road 2",
+      "count": 5,
+      "median_resolution_h": 994.7
+    },
+    {
+      "junction": "Devasandra(k r puram)",
+      "corridor": "Non-corridor",
+      "count": 4,
+      "median_resolution_h": 411.3
+    },
+    {
+      "junction": "K R Circle",
+      "corridor": "Non-corridor",
+      "count": 4,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "CoffeeBoardJunc",
+      "corridor": "CBD 2",
+      "count": 3,
+      "median_resolution_h": 1342.0
+    },
+    {
+      "junction": "KogilluCrossJunc",
+      "corridor": "Bellary Road 2",
+      "count": 2,
+      "median_resolution_h": 3.3
+    },
+    {
+      "junction": "ArakereGateJunc",
+      "corridor": "Bannerghata Road",
+      "count": 2,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "Bamboobazar(Shivajinagar)",
+      "corridor": "Non-corridor",
+      "count": 2,
+      "median_resolution_h": 1969.4
+    },
+    {
+      "junction": "Srinivagilu(Ejipura)Junc",
+      "corridor": "IRR(Thanisandra road)",
+      "count": 2,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "Kadubeesanahalli-ORR Junc",
+      "corridor": "ORR East 1",
+      "count": 2,
+      "median_resolution_h": 158.6
+    },
+    {
+      "junction": "Shivajinagar(BRV)Junction",
+      "corridor": "Old Madras Road",
+      "count": 2,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "CMP GateJunc",
+      "corridor": "Hosur Road",
+      "count": 2,
+      "median_resolution_h": 166.0
+    },
+    {
+      "junction": "ModiBridgeJunction",
+      "corridor": "West of Chord Road",
+      "count": 2,
+      "median_resolution_h": 941.8
+    },
+    {
+      "junction": "IbblurJunction'",
+      "corridor": "ORR East 1",
+      "count": 2,
+      "median_resolution_h": 91.9
+    },
+    {
+      "junction": "29thMainRdBTM LayoutJunc",
+      "corridor": "Non-corridor",
+      "count": 1,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "RajajinagarEntranceJunction",
+      "corridor": "Non-corridor",
+      "count": 1,
+      "median_resolution_h": NaN
+    }
+  ],
+  "pot_holes": [
+    {
+      "junction": "AyyappaTempleJunc",
+      "corridor": "Hosur Road",
+      "count": 34,
+      "median_resolution_h": 1488.8
+    },
+    {
+      "junction": "KoramangalaWaterTankJunc",
+      "corridor": "IRR(Thanisandra road)",
+      "count": 18,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "CMP GateJunc",
+      "corridor": "Hosur Road",
+      "count": 8,
+      "median_resolution_h": 651.4
+    },
+    {
+      "junction": "SarjapurRd-St JohnsRdJunc",
+      "corridor": "Hosur Road",
+      "count": 7,
+      "median_resolution_h": 1025.7
+    },
+    {
+      "junction": "Bommanahalli",
+      "corridor": "Hosur Road",
+      "count": 6,
+      "median_resolution_h": 238.7
+    },
+    {
+      "junction": "28thMainJayanagarJunc",
+      "corridor": "Non-corridor",
+      "count": 5,
+      "median_resolution_h": 2221.9
+    },
+    {
+      "junction": "SindhiColonyJunction",
+      "corridor": "Non-corridor",
+      "count": 5,
+      "median_resolution_h": 780.0
+    },
+    {
+      "junction": "HulimaveRd-BanneraghattaRdJunc",
+      "corridor": "Bannerghata Road",
+      "count": 5,
+      "median_resolution_h": 1713.9
+    },
+    {
+      "junction": "BDA Junctio-Koramangala",
+      "corridor": "IRR(Thanisandra road)",
+      "count": 4,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "UttarahalliJunction",
+      "corridor": "Non-corridor",
+      "count": 4,
+      "median_resolution_h": 192.8
+    },
+    {
+      "junction": "SilkBoardJunc",
+      "corridor": "ORR East 1",
+      "count": 4,
+      "median_resolution_h": 2855.0
+    },
+    {
+      "junction": "TrinityCircle",
+      "corridor": "Old Madras Road",
+      "count": 4,
+      "median_resolution_h": 1256.7
+    },
+    {
+      "junction": "ArakereGateJunc",
+      "corridor": "Bannerghata Road",
+      "count": 4,
+      "median_resolution_h": 1714.1
+    },
+    {
+      "junction": "BucheryJunction",
+      "corridor": "Non-corridor",
+      "count": 4,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "OldMadrasRd-Indranagar100ftRdJunc",
+      "corridor": "Old Madras Road",
+      "count": 3,
+      "median_resolution_h": NaN
+    }
+  ],
+  "construction": [
+    {
+      "junction": "VeerannapalyaJunction(BEL,HO)",
+      "corridor": "ORR North 1",
+      "count": 13,
+      "median_resolution_h": 83.4
+    },
+    {
+      "junction": "SantheCircle",
+      "corridor": "Bellary Road 2",
+      "count": 6,
+      "median_resolution_h": 438.4
+    },
+    {
+      "junction": "HoramavuJunction",
+      "corridor": "ORR North 1",
+      "count": 5,
+      "median_resolution_h": 6.9
+    },
+    {
+      "junction": "SubbannaJunction",
+      "corridor": "Non-corridor",
+      "count": 4,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "Nagavara-ORR Junction",
+      "corridor": "Hennur Main Road",
+      "count": 4,
+      "median_resolution_h": 2.1
+    },
+    {
+      "junction": "SilkBoardJunc",
+      "corridor": "ORR East 1",
+      "count": 4,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "HebbalFlyoverJunc",
+      "corridor": "Bellary Road 1",
+      "count": 4,
+      "median_resolution_h": 160.3
+    },
+    {
+      "junction": "UniversityJunc(Janabharti)",
+      "corridor": "Mysore Road",
+      "count": 3,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "HennurRd-DavisRdJunction",
+      "corridor": "Airport New South Road",
+      "count": 3,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "BEL Circle",
+      "corridor": "ORR North 2",
+      "count": 3,
+      "median_resolution_h": 237.0
+    },
+    {
+      "junction": "KatriguppeJunction",
+      "corridor": "ORR West 1",
+      "count": 3,
+      "median_resolution_h": 1244.8
+    },
+    {
+      "junction": "YelhankaCircle",
+      "corridor": "Bellary Road 2",
+      "count": 3,
+      "median_resolution_h": 177.8
+    },
+    {
+      "junction": "SubedarChatramRd near SheshadripuramPS",
+      "corridor": "Non-corridor",
+      "count": 2,
+      "median_resolution_h": NaN
+    },
+    {
+      "junction": "MaratahalliBridgeJunc",
+      "corridor": "Varthur Road",
+      "count": 2,
+      "median_resolution_h": 47.9
+    },
+    {
+      "junction": "KundanahalliGateJunc",
+      "corridor": "Varthur Road",
+      "count": 2,
+      "median_resolution_h": NaN
+    }
+  ]
+}
